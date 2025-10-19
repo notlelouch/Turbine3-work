@@ -1,0 +1,26 @@
+[2025-10-19--15-16-44 INFO actix_server::builder] starting 5 workers
+[2025-10-19--15-16-44 INFO actix_server::server] Tokio runtime found; starting in existing Tokio runtime
+[2025-10-19--15-16-44 INFO actix_server::server] starting service: "actix-web-service-127.0.0.1:18488", workers: 5, listening on: 127.0.0.1:18488
+[2025-10-19--15-16-44 INFO parity_ws] Listening for new connections on 127.0.0.1:8900.
+[2025-10-19--15-16-45 INFO txtx::svm::deploy_program] [Recovery Instructions] - An ephemeral authority account will be created and funded to write to the buffer account.
+[2025-10-19--15-16-45 INFO txtx::svm::deploy_program] [Recovery Instructions] - Please save the following information in case the deployment fails and the account needs to be recovered:
+[2025-10-19--15-16-45 INFO txtx::svm::deploy_program] [Recovery Instructions] - Ephemeral authority public key: 49WWtRRsP9mAeQ842scMGJjYDuGyBH2eDWVJYaCGk457
+[2025-10-19--15-16-45 INFO txtx::svm::deploy_program] [Recovery Instructions] - Ephemeral authority secret key: [162, 10, 49, 21, 100, 77, 96, 44, 234, 110, 140, 193, 239, 244, 102, 231, 91, 86, 116, 233, 166, 32, 137, 130, 35, 33, 59, 36, 246, 112, 32, 114, 46, 193, 20, 141, 253, 235, 42, 226, 251, 52, 43, 220, 179, 206, 183, 152, 75, 19, 166, 56, 180, 41, 37, 69, 32, 129, 123, 42, 13, 124, 159, 162]
+[2025-10-19--15-16-45 INFO txtx::svm::deploy_program] Account Created - Ephemeral authority account created and funded to write to buffer
+[2025-10-19--15-16-45 INFO txtx::svm::deploy_program] [Recovery Instructions] - Creating program buffer account at pubkey 8XQRaaZf4RHD1EG7rPM5LtJz8tnNuDPg36aR1gH5BMJJ
+[2025-10-19--15-16-46 INFO txtx::svm::deploy_program] Account Created - Program buffer account created
+[2025-10-19--15-16-48 INFO txtx::svm::deploy_program] Buffer Ready - Writing to buffer account is complete
+[2025-10-19--15-16-49 INFO txtx::svm::deploy_program] Program Created - Program FjdQYbZoco7iG6W7JUD6ikzqVWaY9XK8bxBuh7VaALCG has been deployed
+[2025-10-19--15-16-50 INFO txtx::svm::deploy_program] Complete - Ephemeral authority account closed and leftover funds returned to payer
+[2025-10-19--15-16-57 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:50806.
+[2025-10-19--15-17-12 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:51025.
+[2025-10-19--15-17-15 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:51029.
+[2025-10-19--15-18-05 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:51043.
+[2025-10-19--15-18-24 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:51328.
+[2025-10-19--15-18-26 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:51332.
+[2025-10-19--15-19-30 INFO actix_server::worker] shutting down idle worker
+[2025-10-19--15-19-30 INFO actix_server::accept] accept thread stopped
+[2025-10-19--15-19-30 INFO actix_server::worker] shutting down idle worker
+[2025-10-19--15-19-30 INFO actix_server::worker] shutting down idle worker
+[2025-10-19--15-19-30 INFO actix_server::worker] shutting down idle worker
+[2025-10-19--15-19-30 INFO actix_server::worker] shutting down idle worker
